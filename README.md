@@ -1,0 +1,2 @@
+# docs
+FastFood docs
